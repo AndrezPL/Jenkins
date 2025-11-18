@@ -29,7 +29,7 @@ pipeline {
             }
         
             steps {
-                sh "sleep 60"
+                sh "sleep 29"
             }
             
         }
